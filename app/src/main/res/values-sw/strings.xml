@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="capital">Mji Mkuu : </string>
+    <string name="population">Idara ya watu : </string>
+    <string name="region">Eneo : </string>
+    <string name="area">Unene wa ardhi : </string>
+    <string name="fifa">Fifa : </string>
+    <string name="independent">Uhuru :</string>
+    <string name="landlocked">Landlocked : </string>
+    <string name="status">Status : </string>
+    <string name="sub_region">Sub Region : </string>
+    <string name="un_member">Memba wa UN : </string>
+    <string name="start_of_week">Mwanzo wa Juma : </string>
+    <string name="time_zone">Time zone : </string>
+    <string name="continent">Bara : </string>
+</resources>

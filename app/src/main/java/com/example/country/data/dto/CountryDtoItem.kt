@@ -1,7 +1,6 @@
 package com.example.country.data.dto
 
 import com.example.country.domain.model.Country
-import com.example.country.domain.model.CountryDetails
 
 data class CountryDtoItem(
     val altSpellings: List<String>,
@@ -45,27 +44,20 @@ fun CountryDtoItem.toCountry(): Country{
     return Country(
         name = name.common,
         capital = capital,
-        flag = flags.png
-    )
-}
-
-fun CountryDtoItem.toCountryDetails(): CountryDetails{
-    return CountryDetails(
-        name = name,
+        flag = flags.png,
         population = population,
         region = region,
-        capital = capital,
-        officialLanguage = languages,
         area = area,
         fifa = fifa,
         independent = independent,
         landlocked = landlocked,
-        postalCode = postalCode,
         status = status,
         subregion = subregion,
-        timezones = timezones,
         unMember = unMember,
         startOfWeek = startOfWeek,
-        flags = flags
+        officialLanguage = languages,
+        timezones = timezones,
+        postalCode = postalCode,
+        continents = continents
     )
 }

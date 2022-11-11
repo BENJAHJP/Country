@@ -10,4 +10,5 @@ I faced  the challenges of parsing data from one screen to another but after res
 If i had time i would add more data on the details screen and also support more languages and improve the ui
 
 appetize app link: https://appetize.io/app/op5dea3tc65ow7fboxfrw3xfty?device=pixel4&osVersion=11.0&scale=75
+
 apk file link: https://drive.google.com/file/d/1hisnm7Q06NaO_HAri8CT65y28nDVpBQj/view?usp=sharing
